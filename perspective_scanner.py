@@ -1,14 +1,3 @@
-"""
-perspective_scanner.py
-----------------------
-Aplicação de Transformação de Perspectiva (Homografia Planar 2D) para 
-Digitalização de Documentos (Document Scanner / Perspective Correction) 
-utilizando Python e OpenCV.
-
-Autores: Antigravity Computer Vision Team
-Data: 2026-10-04
-"""
-
 import os
 import glob
 import sys
